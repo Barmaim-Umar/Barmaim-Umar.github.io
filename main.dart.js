@@ -43874,7 +43874,7 @@ A.op.prototype={
 K(a){var s=null
 return new A.cp(B.D0,A.j_(B.V,A.WR(30),new A.x9(this.d,A.eh(this.e,s,s,s,B.PS,s,s),200,42,s),B.u,this.c,5,s,s,s,s,s,B.cm),s)}}
 A.II.prototype={
-K(a){return new A.x7(new A.x2(null),"Flutter Demo",A.an3(null,A.aze(B.U,B.I4),!0),!1,null)}}
+K(a){return new A.x7(new A.x2(null),"Employee Admin Panel",A.an3(null,A.aze(B.U,B.I4),!0),!1,null)}}
 A.h4.prototype={
 H(){return"AnimationStatus."+this.b}}
 A.bP.prototype={
